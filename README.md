@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Hello. I'm a student studying artificial intelligence.
 <!--
 **eunjroh/eunjroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
